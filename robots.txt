@@ -1,6 +1,8 @@
-# On a GitHub Pages project URL this file is NOT at the hostname root.
-# Crawlers consult robots.txt at https://USERNAME.github.io/robots.txt.
+# GitHub Pages project site: the crawler-level robots.txt lives at
+# https://rmichielan.github.io/robots.txt (outside this /site/ project).
+# This file is provided for documentation; submit the sitemap through
+# Google Search Console for the URL-prefix property below.
 User-agent: *
 Allow: /
 
-Sitemap: https://riccardo1803.github.io/site/sitemap.xml
+Sitemap: https://rmichielan.github.io/site/sitemap.xml
