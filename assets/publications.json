@@ -1,6 +1,6 @@
 {
-  "version": "1.12",
-  "last_reviewed": "2026-10-25",
+  "version": "1.13",
+  "last_reviewed": "2026-11-09",
   "sort_default": "year",
   "sort_options": [
     "year",
@@ -20,6 +20,42 @@
     "Temporal Networks"
   ],
   "records": [
+    {
+      "id": "maximum-edge-overlap",
+      "title": "Maximum edge overlap between independent random regular graphs",
+      "year": 2026,
+      "type": "Preprint",
+      "authors": [
+        {
+          "full_name": "Andrea D'Ascenzo",
+          "display_name": "A. D'Ascenzo",
+          "is_self": false
+        },
+        {
+          "full_name": "Riccardo Michielan",
+          "display_name": "R. Michielan",
+          "is_self": true
+        }
+      ],
+      "venue": "arXiv",
+      "doi": "10.48550/arXiv.2610.41735",
+      "title_url": "https://doi.org/10.48550/arXiv.2610.41735",
+      "tags": [
+        "Graph Algorithms",
+        "Network Modeling"
+      ],
+      "keywords": [
+        "edge overlap",
+        "random regular graphs",
+        "graph edit distance",
+        "Hamilton cycles",
+        "random graphs"
+      ],
+      "verified_source_url": "https://arxiv.org/abs/2610.41735",
+      "arxiv_id": "2610.41735",
+      "source_note": "arXiv preprint posted 2026-10-30; no journal version confirmed as of 2026-11-09",
+      "sort_date": "2026-10-30"
+    },
     {
       "id": "optimal-subgraphs",
       "title": "Optimal subgraphs in geometric scale-free random graphs",
